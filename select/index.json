@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "巡星",
+  "base_artist": "RUKI（JO1）",
+  "createdAt": "2026-02-14T15:09:22.373421Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "巡星",
+      "artist": "RUKI",
+      "has_synced": false,
+      "path": "select/01_巡星_RUKI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "巡星",
+      "artist": "RUKI(JO1)",
+      "has_synced": false,
+      "path": "select/pl_01_巡星_RUKI(JO1).txt"
+    }
+  ]
+}
